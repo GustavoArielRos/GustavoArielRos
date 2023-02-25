@@ -1,14 +1,13 @@
 ### Olá mundo! Me chamo Gustavo Ariel 😄
 
 
-
-Linkedin: 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustaar/) 
-
-Site pessoal de portfólio:
-
-[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://site-portfolio-gustavo-ariel.netlify.app/)
+  Linkedin:
+  
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustaar/) 
+    
+  Site pessoal de portfólio:
+  
+  [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://site-portfolio-gustavo-ariel.netlify.app/)
 
 
 
@@ -29,7 +28,7 @@ Site pessoal de portfólio:
   
 </div><br/>
 
-Estudante de Ciência da Computação no CEFET/RJ, gosto  aperfeiçoar meus conhecimentos sendo o principal o estudo de tecnologias.
+Estudante de Ciência da Computação no CEFET/RJ, gosto de aperfeiçoar meus conhecimentos sendo o principal o estudo de tecnologias.
 
  
 
